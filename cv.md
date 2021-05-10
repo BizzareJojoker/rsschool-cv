@@ -6,3 +6,4 @@ Little bit of C#,Java,Python.
 -
 Secondary special education.
 B1 english level.
+:zipper_mouth_face:
